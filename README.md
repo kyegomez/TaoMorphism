@@ -1,6 +1,8 @@
 # TaoMorphism
 TaoMorphism focuses on responsiveness, shapelessness, resiliency, and understanding, creating a harmonious balance between technology and nature.
 
+![Taomorphism banner](Taomorphism.jpg)
+
 Inspired by Taoism's philosophies and principles, TaoMorphism emphasizes harmony with nature, responsiveness, formlessness, resilience, and profound understanding. 
 
 It invokes a deep sense of serenity, adaptability, simplicity, and non-duality, bringing forth an era of design that aligns closely with the user and the ebb and flow of the universe.
